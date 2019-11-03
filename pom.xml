@@ -50,6 +50,7 @@
       <artifactId>lombok</artifactId>
       <version>1.16.18</version>
     </dependency>
+    <!--链路追踪服务器的依赖-->
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-zipkin</artifactId>
